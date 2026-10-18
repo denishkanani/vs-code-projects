@@ -1,0 +1,7 @@
+1. Data Frames Practice: Working with English Words
+2. Filtering and sorting with Pokemon Data
+3. The Birthday Paradox in the NBA
+4.Matching Strings by  Similarity using Levenshtein distance
+5. Data Cleaning with Google Playstore dataset
+6.Premier League Match Analysis
+7.NBA 2017 Season analysis: joining and groupby practice

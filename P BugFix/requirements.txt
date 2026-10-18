@@ -1,0 +1,52 @@
+# ===============================
+# AI Research Assistant
+# Requirements
+# ===============================
+
+# OpenAI
+openai>=1.40.0
+
+# FastAPI
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+
+# Environment Variables
+python-dotenv>=1.0.1
+
+# HTTP Requests
+requests>=2.32.3
+
+# HTML Parsing
+beautifulsoup4>=4.12.3
+lxml>=5.2.2
+
+# Google Search
+googlesearch-python>=1.2.5
+
+# Vector Database
+chromadb>=0.5.5
+
+# Authentication
+bcrypt>=4.2.0
+
+# File Uploads
+python-multipart>=0.0.9
+
+# HTML Templates
+jinja2>=3.1.4
+
+# Data Processing
+numpy>=1.26.4
+pandas>=2.2.2
+
+# Machine Learning
+scikit-learn>=1.5.1
+
+# PDF Support
+pypdf>=4.3.1
+
+# Image Processing
+Pillow>=10.4.0
+
+# Logging
+loguru>=0.7.2   
